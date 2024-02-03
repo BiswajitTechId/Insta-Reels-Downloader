@@ -24,5 +24,9 @@ Your app is ready to be deployed!
 See the section about deployment for more information.
 
 npm run eject
+
+
+#to run the program
+npm start
 Note: this is a one-way operation. Once you eject, you can't go back!
 
